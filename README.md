@@ -1,4 +1,5 @@
-# 💫 Sreenivasulareddy Undela:
+# 💫 Sreenivasulareddy Undela
+
 👋 Sreenivasulareddy Undela<br>Application Developer | BSIT Software Services Pvt. Ltd.<br>I am a passionate Application Developer with a B.Tech in Computer Science and Engineering from Santhiram Engineering College. My focus is on building scalable, efficient web applications using modern technologies and best practices to solve real-world challenges.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vasureddy__undela/profilecard/?igsh=ajByNHExNmMxOGRr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreenivasulareddy-undela-9ba69a196/) 
